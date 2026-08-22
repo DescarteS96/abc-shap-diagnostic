@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the accompanying paper."
+title: "ABC-SHAP: code and data for an empirical diagnostic study of adaptive coalition sampling under finite budgets"
+abstract: >-
+  Code and experimental data reproducing the tables, figures and run-to-run
+  dispersion analysis of an empirical diagnostic study of instance-specific
+  adaptive coalition sampling for Kernel SHAP.
+authors:
+  - family-names: "Ballamou"
+    given-names: "Rene Fassou"
+    affiliation: "Eskisehir Technical University, Department of Statistics"
+  - family-names: "Yenilmez"
+    given-names: "İsmail"
+    affiliation: "Eskisehir Technical University, Department of Statistics"
+repository-code: "https://github.com/DescarteS96/abc-shap-diagnostic"
+license: MIT
+keywords:
+  - Kernel SHAP
+  - coalition sampling
+  - explanation stability
+  - adaptive sampling
+  - negative results
+preferred-citation:
+  type: article
+  title: "Why Adaptive Coalition Sampling Fails to Improve Kernel SHAP Stability Under Finite Budgets: An Empirical Diagnostic Study"
+  authors:
+    - family-names: "Ballamou"
+      given-names: "Rene Fassou"
+    - family-names: "Yenilmez"
+      given-names: "İsmail"
+  year: 2026
+  notes: "Under review"
